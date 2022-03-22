@@ -1,0 +1,13 @@
+We are using simple scripting for the automation of api
+
+For reporting we have define our own reports can use html reports or some third party plugin like allure
+ but here I am using customize reports
+
+ For every request we have made a folder
+ Test Data is stored in Json file
+
+ Requirement
+ We just need python and pycharm and these three packages
+ 1 requests
+ 2 json
+ 3 bcolors
